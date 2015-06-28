@@ -1,3 +1,6 @@
+//Based off of "Cracking the Coding Interview"
+//Their version of the code can be viewed here: https://code.google.com/p/ctci/source/browse/trunk/Java/Chapter+11a/Introduction/Quicksort.java?r=13
+
 public static void quickSort(int arr[])
 {
   quickSort(arr, 0, arr.length-1);
