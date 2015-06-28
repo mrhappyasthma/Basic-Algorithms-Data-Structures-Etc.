@@ -1,3 +1,5 @@
+//Reference:  http://stackoverflow.com/a/4240323
+
 public static void permutation(String str)
 {
   permutation("", str);
