@@ -18,7 +18,7 @@ public class trie<V>
   
   public V get(String key)
   {
-    Node n = get(root, key, o);
+    Node n = get(root, key, 0);
     
     if(n == null)
     {
