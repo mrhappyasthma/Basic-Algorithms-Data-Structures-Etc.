@@ -1,4 +1,5 @@
-//Based off of "Cracking the Coding Interview" book.  Their version of this code can be found here: https://code.google.com/p/ctci/source/browse/trunk/Java/Chapter+11a/Introduction/BinarySearch.java?r=13
+//Based off of "Cracking the Coding Interview" book.  
+//Their version of this code can be found here: https://code.google.com/p/ctci/source/browse/trunk/Java/Chapter+11a/Introduction/BinarySearch.java?r=13
 
 public static int binarySearch(int arr[], int value) throws IllegalArgumentException
 {
