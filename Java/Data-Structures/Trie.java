@@ -5,7 +5,7 @@
 
 //Reference:  http://algs4.cs.princeton.edu/52trie/
 
-public class trie<V>
+public class Trie<V>
 {
   private static int R = 256; //radix for ASCII strings
   private Node root;
