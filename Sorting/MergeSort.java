@@ -1,3 +1,6 @@
+//Based off of "Cracking the Coding Interview"
+//Their version of the code can be found here: https://code.google.com/p/ctci/source/browse/trunk/Java/Chapter+11a/Introduction/MergeSort.java?r=13
+
 public static void mergeSort(int arr[])
 {
   if(arr == null || arr.length = 0)
